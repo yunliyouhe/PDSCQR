@@ -1,0 +1,23 @@
+{
+  "data_dir": "data/PRSA_Data_20130301-20170228",
+  "output_dir": "results/beijing",
+  "seed": 20240601,
+  "M": 9,
+  "B_boot": 200,
+  "eps_list": [
+    0.5,
+    1.0,
+    5.0
+  ],
+  "central_station": "Aotizhongxin",
+  "split_date": "2016-09-01",
+  "covariates": [
+    "TEMP",
+    "DEWP",
+    "PRES",
+    "WSPM",
+    "RAIN"
+  ],
+  "winsor_limit": 5.0,
+  "export_slope_coefficients": true
+}
