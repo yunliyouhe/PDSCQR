@@ -1,14 +1,4 @@
-# CST-DCQR / DP-CST-DCQR Real-Data Code
 
-This repository contains a clean, modular version of the real-data analysis code
-for CST-DCQR and DP-CST-DCQR.
-
-The repository is designed for GitHub reproducibility:
-
-- no personal absolute paths.
-
-The code only runs the real-data analyses and exports numerical results.
-```text
 CST-DCQR-GitHub-NoTable11/
 ├── README.md
 ├── requirements.txt
